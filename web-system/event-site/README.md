@@ -7,6 +7,7 @@
     <li>Use for 1 month only.</li>
     <li>Site users access the internet as individual users.</li>
     <li>Prioritize costs and do not consier multiplexed backups.</li>
+    <li>Event site uses Amazon Linux2 OS and LAMP stacks.</li>
 </ul>
 
 <h2>Resource Diagram</h2>
